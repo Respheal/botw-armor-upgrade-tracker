@@ -5982,6 +5982,7 @@ function generateProfile() {
       "Chuchu Jelly": 0,
       "Octo Balloon": 0,
       "Keese Eyeball": 0,
+      "Octorok Eyeball": 0,
       "Aerocuda Eyeball": 0,
       "Keese Wing": 0,
       "Fire Keese Wing": 0,
