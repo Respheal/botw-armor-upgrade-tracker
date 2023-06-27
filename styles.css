@@ -352,6 +352,14 @@ label {
   transition: 3s ease all;
 }
 
+.desertvoespaulder {
+  background-position: 0 0;
+}
+
+.flamebreakerarmor {
+  background-position: -70px 0;
+}
+
 .amberearrings {
   background-position: -140px 0;
 }
@@ -388,87 +396,83 @@ label {
   background-position: -700px 0;
 }
 
-.capofthewind {
+.capofthewild {
   background-position: -770px 0;
 }
 
-.capoftime {
+.capofthewind {
   background-position: -840px 0;
 }
 
-.capoftwilight {
+.capoftime {
   background-position: -910px 0;
 }
 
-.capofthehero {
+.capoftwilight {
   background-position: -980px 0;
 }
 
-.capofthesky {
+.capofthehero {
   background-position: -1050px 0;
 }
 
-.cecehat {
+.capofthesky {
   background-position: -1120px 0;
 }
 
-.championsleathers {
+.cecehat {
   background-position: -1190px 0;
 }
 
-.tunicofmemories {
+.championsleathers {
   background-position: -1260px 0;
 }
 
-.chargedshirt {
+.tunicofmemories {
   background-position: -1330px 0;
 }
 
-.chargedtrousers {
+.chargedshirt {
   background-position: -1400px 0;
 }
 
-.chargedheaddress {
+.chargedtrousers {
   background-position: -1470px 0;
 }
 
-.climbersbandana {
+.chargedheaddress {
   background-position: -1540px 0;
 }
 
-.climbingboots {
+.climbersbandana {
   background-position: -1610px 0;
 }
 
-.climbinggear {
+.climbingboots {
   background-position: -1680px 0;
 }
 
-.darkhood {
+.climbinggear {
   background-position: -1750px 0;
 }
 
-.darktrousers {
+.darkhood {
   background-position: -1820px 0;
 }
 
-.darktunic {
+.darktrousers {
   background-position: -1890px 0;
 }
 
-.desertvoeheadband {
+.darktunic {
   background-position: -1960px 0;
 }
 
-.desertvoespaulder {
-  background-position: 0 0;
-}
-
-.desertvoetrousers {
+.desertvoeheadband {
   background-position: -2030px 0;
 }
 
-.diamondcirclet {
+.desertvoetrousers {
   background-position: -2100px 0;
 }
 
@@ -476,39 +480,35 @@ label {
   background-position: -2170px 0;
 }
 
-.embershirt {
+.diamondcirclet {
   background-position: -2240px 0;
 }
 
-.embertrousers {
+.embershirt {
   background-position: -2310px 0;
 }
 
-.fiercedeityarmor {
-  background-position: -2520px 0;
-}
-
-.fiercedeityboots {
+.embertrousers {
   background-position: -2380px 0;
 }
 
-.fiercedeitymask {
+.fiercedeityboots {
   background-position: -2450px 0;
 }
 
-.flamebreakerarmor {
-  background-position: -70px 0;
+.fiercedeitymask {
+  background-position: -2520px 0;
 }
 
-.flamebreakerboots {
+.fiercedeityarmor {
   background-position: -2590px 0;
 }
 
-.flamebreakerhelm {
+.flamebreakerboots {
   background-position: -2660px 0;
 }
 
-.froggyhood {
+.flamebreakerhelm {
   background-position: -2730px 0;
 }
 
@@ -516,16 +516,20 @@ label {
   background-position: -2800px 0;
 }
 
-.froggysleeve {
+.froggyhood {
   background-position: -2870px 0;
 }
 
-.frostbiteheaddress {
+.froggysleeve {
   background-position: -2940px 0;
 }
 
-.frostbiteshirt {
+.frostbiteheaddress {
   background-position: -3010px 0;
+}
+
+.frostbiteshirt {
+  background-position: -3080px 0;
 }
 
 .frostbitetrousers {
@@ -533,347 +537,347 @@ label {
 }
 
 .gaitersofthedepths {
-  background-position: -3080px 0;
-}
-
-.glidemask {
   background-position: -3220px 0;
 }
 
-.glideshirt {
+.glidemask {
   background-position: -3290px 0;
 }
 
-.glidetights {
+.glideshirt {
   background-position: -3360px 0;
 }
 
-.hoodofthedepths {
+.glidetights {
   background-position: -3430px 0;
 }
 
-.horriblinmask {
+.hoodofthedepths {
   background-position: -3500px 0;
 }
 
-.hylianhood {
+.horriblinmask {
   background-position: -3570px 0;
 }
 
-.hyliantrousers {
+.hylianhood {
   background-position: -3640px 0;
 }
 
-.hyliantunic {
+.hyliantrousers {
   background-position: -3710px 0;
 }
 
-.islandlobstershirt {
+.hyliantunic {
   background-position: -3780px 0;
 }
 
-.korokmask {
+.islandlobstershirt {
   background-position: -3850px 0;
 }
 
-.lightninghelm {
+.korokmask {
   background-position: -3920px 0;
 }
 
-.lizalfosmask {
+.lightninghelm {
   background-position: -3990px 0;
 }
 
-.lynelmask {
+.lizalfosmask {
   background-position: -4060px 0;
 }
 
-.majorasmask {
+.lynelmask {
   background-position: -4130px 0;
 }
 
-.maskofawakening {
+.majorasmask {
   background-position: -4200px 0;
 }
 
-.midnashelmet {
+.maskofawakening {
   background-position: -4270px 0;
 }
 
-.minersmask {
+.midnashelmet {
   background-position: -4340px 0;
 }
 
-.minerstop {
+.minersmask {
   background-position: -4410px 0;
 }
 
-.minerstrousers {
+.minerstop {
   background-position: -4480px 0;
 }
 
-.moblinmask {
+.minerstrousers {
   background-position: -4550px 0;
 }
 
-.mysticheadpiece {
+.moblinmask {
   background-position: -4620px 0;
 }
 
-.mysticrobe {
+.mysticheadpiece {
   background-position: -4690px 0;
 }
 
-.mystictrousers {
+.mysticrobe {
   background-position: -4760px 0;
 }
 
-.opalearrings {
+.mystictrousers {
   background-position: -4830px 0;
 }
 
-.phantomarmor {
+.opalearrings {
   background-position: -4900px 0;
 }
 
-.phantomgreaves {
+.phantomarmor {
   background-position: -4970px 0;
 }
 
-.phantomhelmet {
+.phantomgreaves {
   background-position: -5040px 0;
 }
 
-.radiantmask {
+.phantomhelmet {
   background-position: -5110px 0;
 }
 
-.radiantshirt {
+.radiantmask {
   background-position: -5180px 0;
 }
 
-.radianttights {
+.radiantshirt {
   background-position: -5250px 0;
 }
 
-.ravioshood {
+.radianttights {
   background-position: -5320px 0;
 }
 
-.royalguardboots {
+.ravioshood {
   background-position: -5390px 0;
 }
 
-.royalguardcap {
+.royalguardboots {
   background-position: -5460px 0;
 }
 
-.royalguarduniform {
+.royalguardcap {
   background-position: -5530px 0;
 }
 
-.rubberarmor {
+.royalguarduniform {
   background-position: -5600px 0;
 }
 
-.rubberhelm {
+.rubberarmor {
   background-position: -5670px 0;
 }
 
-.rubbertights {
+.rubberhelm {
   background-position: -5740px 0;
 }
 
-.rubycirclet {
+.rubbertights {
   background-position: -5810px 0;
 }
 
-.sandboots {
+.rubycirclet {
   background-position: -5880px 0;
 }
 
-.sapphirecirclet {
+.sandboots {
   background-position: -5950px 0;
 }
 
-.sheiksmask {
+.sapphirecirclet {
   background-position: -6020px 0;
 }
 
-.snowboots {
+.sheiksmask {
   background-position: -6090px 0;
 }
 
-.snowquillheaddress {
+.snowboots {
   background-position: -6160px 0;
 }
 
-.snowquilltrousers {
+.snowquillheaddress {
   background-position: -6230px 0;
 }
 
-.snowquilltunic {
+.snowquilltrousers {
   background-position: -6300px 0;
 }
 
-.soldiersarmor {
+.snowquilltunic {
   background-position: -6370px 0;
 }
 
-.soldiersgreaves {
+.soldiersarmor {
   background-position: -6440px 0;
 }
 
-.soldiershelm {
+.soldiersgreaves {
   background-position: -6510px 0;
 }
 
-.stealthchestguard {
-  background-position: -6720px 0;
-}
-
-.stealthmask {
+.soldiershelm {
   background-position: -6580px 0;
 }
 
-.stealthtights {
+.stealthchestguard {
   background-position: -6650px 0;
 }
 
-.tingleshood {
+.stealthmask {
+  background-position: -6720px 0;
+}
+
+.stealthtights {
   background-position: -6790px 0;
 }
 
-.tinglesshirt {
+.tingleshood {
   background-position: -6860px 0;
 }
 
-.tinglestights {
+.tinglesshirt {
   background-position: -6930px 0;
 }
 
-.topazearrings {
+.tinglestights {
   background-position: -7000px 0;
 }
 
-.trousersofawakening {
+.topazearrings {
   background-position: -7070px 0;
 }
 
-.trousersofthehero {
+.trousersofawakening {
   background-position: -7140px 0;
 }
 
-.trousersofthesky {
+.trousersofthehero {
   background-position: -7210px 0;
 }
 
-.trousersofthewild {
+.trousersofthesky {
   background-position: -7280px 0;
 }
 
-.trousersofthewind {
+.trousersofthewild {
   background-position: -7350px 0;
 }
 
-.trousersoftime {
+.trousersofthewind {
   background-position: -7420px 0;
 }
 
-.trousersoftwilight {
+.trousersoftime {
   background-position: -7490px 0;
 }
 
-.tunicofawakening {
+.trousersoftwilight {
   background-position: -7560px 0;
 }
 
-.tunicofthedepths {
+.tunicofawakening {
   background-position: -7630px 0;
 }
 
-.tunicofthehero {
+.tunicofthedepths {
   background-position: -7700px 0;
 }
 
-.tunicofthesky {
+.tunicofthehero {
   background-position: -7770px 0;
 }
 
-.tunicofthewild {
+.tunicofthesky {
   background-position: -7840px 0;
 }
 
-.tunicofthewind {
+.tunicofthewild {
   background-position: -7910px 0;
 }
 
-.tunicoftime {
+.tunicofthewind {
   background-position: -7980px 0;
 }
 
-.tunicoftwilight {
+.tunicoftime {
   background-position: -8050px 0;
 }
 
-.vahmedohdivinehelm {
+.tunicoftwilight {
   background-position: -8120px 0;
 }
 
-.vahnaborisdivinehelm {
+.vahmedohdivinehelm {
   background-position: -8190px 0;
 }
 
-.vahrudaniadivinehelm {
+.vahnaborisdivinehelm {
   background-position: -8260px 0;
 }
 
-.vahrutadivinehelm {
+.vahrudaniadivinehelm {
   background-position: -8330px 0;
 }
 
-.well-wornhairband {
+.vahrutadivinehelm {
   background-position: -8400px 0;
 }
 
-.yigaarmor {
+.well-wornhairband {
   background-position: -8470px 0;
 }
 
-.yigamask {
+.yigaarmor {
   background-position: -8540px 0;
 }
 
-.yigatights {
+.yigamask {
   background-position: -8610px 0;
 }
 
-.zantshelmet {
+.yigatights {
   background-position: -8680px 0;
 }
 
-.zonaitehelm {
+.zantshelmet {
   background-position: -8750px 0;
 }
 
-.zonaiteshinguards {
+.zonaitehelm {
   background-position: -8820px 0;
 }
 
-.zonaitewaistguard {
+.zonaiteshinguards {
   background-position: -8890px 0;
 }
 
-.zoraarmor {
+.zonaitewaistguard {
   background-position: -8960px 0;
 }
 
-.zoragreaves {
+.zoraarmor {
   background-position: -9030px 0;
 }
 
-.zorahelm {
+.zoragreaves {
   background-position: -9100px 0;
+}
+
+.zorahelm {
+  background-position: -9170px 0;
 }
 
 /* GITHUB CORNER */
