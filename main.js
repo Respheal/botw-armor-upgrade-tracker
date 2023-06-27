@@ -3865,7 +3865,7 @@ function generateProfile() {
           ],
           "3": [
             {
-              "name": "Light Dragon's Fang",
+              "name": "Shard of Light Dragon's Fang",
               "quantity": 2
             },
             {
@@ -4156,7 +4156,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Dinraal's Fang",
+              "name": "Shard of Dinraal's Fang",
               "quantity": 1
             }
           ],
@@ -4207,7 +4207,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Naydra's Fang",
+              "name": "Shard of Naydra's Fang",
               "quantity": 1
             }
           ],
@@ -4258,7 +4258,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Farosh's Fang",
+              "name": "Shard of Farosh's Fang",
               "quantity": 1
             }
           ],
@@ -4780,11 +4780,11 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Farosh's Fang",
+              "name": "Shard of Farosh's Fang",
               "quantity": 2
             },
             {
-              "name": "Farosh's Spike",
+              "name": "Shard of Farosh's Spike",
               "quantity": 5
             }
           ],
@@ -4798,7 +4798,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Farosh's Spike",
+              "name": "Shard of Farosh's Spike",
               "quantity": 10
             }
           ]
@@ -4839,11 +4839,11 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Naydra's Fang",
+              "name": "Shard of Naydra's Fang",
               "quantity": 2
             },
             {
-              "name": "Naydra's Spike",
+              "name": "Shard of Naydra's Spike",
               "quantity": 5
             }
           ],
@@ -4857,7 +4857,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Naydra's Spike",
+              "name": "Shard of Naydra's Spike",
               "quantity": 10
             }
           ]
@@ -4894,7 +4894,7 @@ function generateProfile() {
           ],
           "3": [
             {
-              "name": "Dinraal's Fang",
+              "name": "Shard of Dinraal's Fang",
               "quantity": 2
             },
             {
@@ -4902,7 +4902,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Dinraal's Spike",
+              "name": "Shard of Dinraal's Spike",
               "quantity": 5
             }
           ],
@@ -4916,7 +4916,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Dinraal's Spike",
+              "name": "Shard of Dinraal's Spike",
               "quantity": 10
             }
           ]
@@ -6039,9 +6039,9 @@ function generateProfile() {
       "Frox Fang": 0,
       "Obsidian Frox Fang": 0,
       "Blue-White Frox Fang": 0,
-      "Dinraal's Spike": 0,
-      "Naydra's Spike": 0,
-      "Farosh's Spike": 0,
+      "Shard of Dinraal's Spike": 0,
+      "Shard of Naydra's Spike": 0,
+      "Shard of Farosh's Spike": 0,
       "Lizalfos Tail": 0,
       "Blue Lizalfos Tail": 0,
       "Fire-Breath Lizalfos Tail": 0,
@@ -6062,10 +6062,10 @@ function generateProfile() {
       "Naydra's Claw": 0,
       "Farosh's Claw": 0,
       "Light Dragon's Claw": 0,
-      "Dinraal's Fang": 0,
-      "Naydra's Fang": 0,
-      "Farosh's Fang": 0,
-      "Light Dragon's Fang": 0,
+      "Shard of Dinraal's Fang": 0,
+      "Shard of Naydra's Fang": 0,
+      "Shard of Farosh's Fang": 0,
+      "Shard of Light Dragon's Fang": 0,
       "Brightbloom Seed": 0,
       "Giant Brightbloom Seed": 0,
       "Zonaite": 0,
