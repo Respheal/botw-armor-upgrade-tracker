@@ -32,6 +32,1338 @@ function generateProfile() {
         "ingredients": {}
       },
       {
+        "name": "Hylian Hood",
+        "type": "hat",
+        "set": "Hylian Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Horn",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Blue Bokoblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Bokoblin Fang",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Amber",
+              "quantity": 20
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Black Bokoblin Horn",
+              "quantity": 10
+            }
+          ],
+          "4": [
+            {
+              "name": "Amber",
+              "quantity": 30
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Silver Bokoblin Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hylian Tunic",
+        "type": "shirt",
+        "set": "Hylian Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Horn",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Blue Bokoblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Bokoblin Fang",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Amber",
+              "quantity": 20
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Black Bokoblin Horn",
+              "quantity": 10
+            }
+          ],
+          "4": [
+            {
+              "name": "Amber",
+              "quantity": 30
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Silver Bokoblin Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hylian Trousers",
+        "type": "pants",
+        "set": "Hylian Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Horn",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Blue Bokoblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Bokoblin Fang",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Amber",
+              "quantity": 20
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Black Bokoblin Horn",
+              "quantity": 10
+            }
+          ],
+          "4": [
+            {
+              "name": "Amber",
+              "quantity": 30
+            },
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Silver Bokoblin Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Soldier's Helm",
+        "type": "hat",
+        "set": "Soldier Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Chuchu Jelly",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Guts",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Lynel Hoof",
+              "quantity": 5
+            },
+            {
+              "name": "Amber",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Soldier's Armor",
+        "type": "shirt",
+        "set": "Soldier Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Chuchu Jelly",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Guts",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Lynel Hoof",
+              "quantity": 5
+            },
+            {
+              "name": "Amber",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Soldier's Greaves",
+        "type": "pants",
+        "set": "Soldier Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Chuchu Jelly",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Guts",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 5
+            },
+            {
+              "name": "Lynel Hoof",
+              "quantity": 5
+            },
+            {
+              "name": "Amber",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Snowquill Headdress",
+        "type": "hat",
+        "set": "Snowquill Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Sunshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Ruby",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Snowquill Tunic",
+        "type": "shirt",
+        "set": "Snowquill Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Sunshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Ruby",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Snowquill Trousers",
+        "type": "pants",
+        "set": "Snowquill Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Red Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Sunshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Ruby",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Flamebreaker Helm",
+        "type": "hat",
+        "set": "Flamebreaker Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Moblin Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Fireproof Lizard",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Fang",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 15
+            }
+          ],
+          "4": [
+            {
+              "name": "Black Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Flamebreaker Armor",
+        "type": "shirt",
+        "set": "Flamebreaker Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Moblin Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Fireproof Lizard",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Fang",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 15
+            }
+          ],
+          "4": [
+            {
+              "name": "Black Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Flamebreaker Boots",
+        "type": "pants",
+        "set": "Flamebreaker Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Moblin Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Fireproof Lizard",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Fang",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 15
+            }
+          ],
+          "4": [
+            {
+              "name": "Black Moblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Smotherwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zora Helm",
+        "type": "hat",
+        "set": "Zora Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Lizalfos Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Hyrule Bass",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Talon",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hearty Bass",
+              "quantity": 3
+            },
+            {
+              "name": "Blue Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 20
+            },
+            {
+              "name": "Black Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Blue Lizalfos Tail",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zora Armor",
+        "type": "shirt",
+        "set": "Zora Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Lizalfos Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Hyrule Bass",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Talon",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hearty Bass",
+              "quantity": 3
+            },
+            {
+              "name": "Blue Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 20
+            },
+            {
+              "name": "Black Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Blue Lizalfos Tail",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zora Greaves",
+        "type": "pants",
+        "set": "Zora Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Lizalfos Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Hyrule Bass",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Talon",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hearty Bass",
+              "quantity": 3
+            },
+            {
+              "name": "Blue Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 20
+            },
+            {
+              "name": "Black Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Blue Lizalfos Tail",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Desert Voe Headband",
+        "type": "hat",
+        "set": "Desert Voe Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Cool Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Chillshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Sapphire",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Desert Voe Spaulder",
+        "type": "shirt",
+        "set": "Desert Voe Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Cool Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Chillshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Sapphire",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Desert Voe Trousers",
+        "type": "pants",
+        "set": "Desert Voe Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "White Chuchu Jelly",
+              "quantity": 5
+            },
+            {
+              "name": "Cool Safflina",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Chillshroom",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 10
+            },
+            {
+              "name": "Sapphire",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Rubber Helm",
+        "type": "hat",
+        "set": "Rubber Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 1
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Voltfruit",
+              "quantity": 5
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 8
+            }
+          ],
+          "3": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Zapshroom",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Safflina",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Topaz",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 8
+            }
+          ]
+        }
+      },
+      {
+        "name": "Rubber Armor",
+        "type": "shirt",
+        "set": "Rubber Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 1
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Voltfruit",
+              "quantity": 5
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 8
+            }
+          ],
+          "3": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Zapshroom",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Safflina",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Topaz",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 8
+            }
+          ]
+        }
+      },
+      {
+        "name": "Rubber Tights",
+        "type": "pants",
+        "set": "Rubber Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 1
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Voltfruit",
+              "quantity": 5
+            },
+            {
+              "name": "Yellow Chuchu Jelly",
+              "quantity": 8
+            }
+          ],
+          "3": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Zapshroom",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Safflina",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Topaz",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 8
+            }
+          ]
+        }
+      },
+      {
+        "name": "Climber's Bandana",
+        "type": "hat",
+        "set": "Climbing Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            },
+            {
+              "name": "Rushroom",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Hightail Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hot-Footed Frog",
+              "quantity": 10
+            },
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Swift Violet",
+              "quantity": 20
+            }
+          ]
+        }
+      },
+      {
+        "name": "Climbing Gear",
+        "type": "shirt",
+        "set": "Climbing Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            },
+            {
+              "name": "Rushroom",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Hightail Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hot-Footed Frog",
+              "quantity": 10
+            },
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Swift Violet",
+              "quantity": 20
+            }
+          ]
+        }
+      },
+      {
+        "name": "Climbing Boots",
+        "type": "pants",
+        "set": "Climbing Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            },
+            {
+              "name": "Rushroom",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Keese Wing",
+              "quantity": 5
+            },
+            {
+              "name": "Hightail Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hot-Footed Frog",
+              "quantity": 10
+            },
+            {
+              "name": "Ice Keese Wing",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Fire Keese Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Swift Violet",
+              "quantity": 20
+            }
+          ]
+        }
+      },
+      {
         "name": "Barbarian Helm",
         "type": "hat",
         "set": "Barbarian Set",
@@ -209,9 +1541,9 @@ function generateProfile() {
         }
       },
       {
-        "name": "Charged Headdress",
+        "name": "Royal Guard Cap",
         "type": "hat",
-        "set": "Charged Set",
+        "set": "Royal Guard Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -219,54 +1551,58 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Shock Fruit",
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Boss Bokoblin Horn",
               "quantity": 3
             }
           ],
           "2": [
             {
-              "name": "Electric Lizalfos Horn",
+              "name": "Keese Eyeball",
               "quantity": 5
             },
             {
-              "name": "Thunderwing Butterfly",
+              "name": "Moblin Guts",
               "quantity": 3
             }
           ],
           "3": [
             {
-              "name": "Large Zonai Charge",
+              "name": "Lizalfos Tail",
               "quantity": 3
             },
             {
-              "name": "Shock Like Stone",
-              "quantity": 5
+              "name": "Hinox Guts",
+              "quantity": 3
             },
             {
-              "name": "Electric Darner",
-              "quantity": 5
+              "name": "Flint",
+              "quantity": 30
             }
           ],
           "4": [
             {
-              "name": "Gleeok Thunder Horn",
-              "quantity": 5
+              "name": "Silver Boss Bokoblin Horn",
+              "quantity": 3
             },
             {
-              "name": "Voltfin Trout",
-              "quantity": 10
+              "name": "Molduga Guts",
+              "quantity": 3
             },
             {
-              "name": "Large Zonai Charge",
-              "quantity": 10
+              "name": "Gleeok Guts",
+              "quantity": 3
             }
           ]
         }
       },
       {
-        "name": "Charged Shirt",
+        "name": "Royal Guard Uniform",
         "type": "shirt",
-        "set": "Charged Set",
+        "set": "Royal Guard Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -274,134 +1610,418 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Shock Fruit",
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Boss Bokoblin Horn",
               "quantity": 3
             }
           ],
           "2": [
             {
-              "name": "Electric Lizalfos Horn",
+              "name": "Keese Eyeball",
               "quantity": 5
             },
             {
-              "name": "Thunderwing Butterfly",
+              "name": "Moblin Guts",
               "quantity": 3
             }
           ],
           "3": [
             {
-              "name": "Large Zonai Charge",
+              "name": "Lizalfos Tail",
               "quantity": 3
             },
             {
-              "name": "Shock Like Stone",
-              "quantity": 5
+              "name": "Hinox Guts",
+              "quantity": 3
             },
             {
-              "name": "Electric Darner",
-              "quantity": 5
+              "name": "Flint",
+              "quantity": 30
             }
           ],
           "4": [
             {
-              "name": "Gleeok Thunder Horn",
-              "quantity": 5
+              "name": "Silver Boss Bokoblin Horn",
+              "quantity": 3
             },
             {
-              "name": "Voltfin Trout",
-              "quantity": 10
+              "name": "Molduga Guts",
+              "quantity": 3
             },
             {
-              "name": "Large Zonai Charge",
-              "quantity": 10
+              "name": "Gleeok Guts",
+              "quantity": 3
             }
           ]
         }
       },
       {
-        "name": "Charged Trousers",
-        "type": "hat",
-        "set": "Charged Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Shock Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Thunderwing Butterfly",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 3
-            },
-            {
-              "name": "Shock Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Darner",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Thunder Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Voltfin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Dark Hood",
-        "type": "hat",
-        "set": "Dark Link Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Dark Tunic",
-        "type": "shirt",
-        "set": "Dark Link Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Dark Trousers",
+        "name": "Royal Guard Boots",
         "type": "pants",
-        "set": "Dark Link Set",
+        "set": "Royal Guard Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {}
+        "ingredients": {
+          "1": [
+            {
+              "name": "Bokoblin Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Boss Bokoblin Horn",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Moblin Guts",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Hinox Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 30
+            }
+          ],
+          "4": [
+            {
+              "name": "Silver Boss Bokoblin Horn",
+              "quantity": 3
+            },
+            {
+              "name": "Molduga Guts",
+              "quantity": 3
+            },
+            {
+              "name": "Gleeok Guts",
+              "quantity": 3
+            }
+          ]
+        }
+      },
+      {
+        "name": "Froggy Hood",
+        "type": "hat",
+        "set": "Froggy Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Sticky Lizard",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Frog",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Black Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Horriblin Guts",
+              "quantity": 10
+            },
+            {
+              "name": "Opal",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Froggy Sleeve",
+        "type": "shirt",
+        "set": "Froggy Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Sticky Lizard",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Frog",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Black Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Horriblin Guts",
+              "quantity": 10
+            },
+            {
+              "name": "Opal",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Froggy Leggings",
+        "type": "pants",
+        "set": "Froggy Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Sticky Lizard",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Lizard",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Blue Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Sticky Frog",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Black Horriblin Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Horriblin Guts",
+              "quantity": 10
+            },
+            {
+              "name": "Opal",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Glide Mask",
+        "type": "hat",
+        "set": "Glide Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 6
+            },
+            {
+              "name": "Keese Wing",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 6
+            },
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Wing",
+              "quantity": 12
+            },
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Gibdo Wing",
+              "quantity": 8
+            }
+          ]
+        }
+      },
+      {
+        "name": "Glide Shirt",
+        "type": "shirt",
+        "set": "Glide Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 6
+            },
+            {
+              "name": "Keese Wing",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 6
+            },
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Wing",
+              "quantity": 12
+            },
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Gibdo Wing",
+              "quantity": 8
+            }
+          ]
+        }
+      },
+      {
+        "name": "Glide Tights",
+        "type": "pants",
+        "set": "Glide Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Keese Wing",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 6
+            },
+            {
+              "name": "Keese Wing",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 6
+            },
+            {
+              "name": "Aerocuda Eyeball",
+              "quantity": 8
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Wing",
+              "quantity": 12
+            },
+            {
+              "name": "Aerocuda Wing",
+              "quantity": 10
+            },
+            {
+              "name": "Gibdo Wing",
+              "quantity": 8
+            }
+          ]
+        }
       },
       {
         "name": "Hood of the Depths",
@@ -564,1137 +2184,6 @@ function generateProfile() {
             {
               "name": "Frox Guts",
               "quantity": 3
-            }
-          ]
-        }
-      },
-      {
-        "name": "Desert Voe Headband",
-        "type": "hat",
-        "set": "Desert Voe Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Cool Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Chillshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 10
-            },
-            {
-              "name": "Sapphire",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Desert Voe Spaulder",
-        "type": "shirt",
-        "set": "Desert Voe Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Cool Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Chillshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 10
-            },
-            {
-              "name": "Sapphire",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Desert Voe Trousers",
-        "type": "pants",
-        "set": "Desert Voe Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "White Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Cool Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Chillshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 10
-            },
-            {
-              "name": "Sapphire",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Ember Headdress",
-        "type": "hat",
-        "set": "Ember Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Fire Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Summerwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            },
-            {
-              "name": "Fire Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Darner",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Sizzlefin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            },
-            {
-              "name": "Gleeok Flame Horn",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Ember Shirt",
-        "type": "shirt",
-        "set": "Ember Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Fire Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Summerwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            },
-            {
-              "name": "Fire Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Darner",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Sizzlefin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            },
-            {
-              "name": "Gleeok Flame Horn",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Ember Trousers",
-        "type": "pants",
-        "set": "Ember Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Fire Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Summerwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            },
-            {
-              "name": "Fire Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Darner",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Sizzlefin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            },
-            {
-              "name": "Gleeok Flame Horn",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Flamebreaker Helm",
-        "type": "hat",
-        "set": "Flamebreaker Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Moblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Fireproof Lizard",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Fang",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 15
-            }
-          ],
-          "4": [
-            {
-              "name": "Black Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Flamebreaker Armor",
-        "type": "shirt",
-        "set": "Flamebreaker Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Moblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Fireproof Lizard",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Fang",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 15
-            }
-          ],
-          "4": [
-            {
-              "name": "Black Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Flamebreaker Boots",
-        "type": "pants",
-        "set": "Flamebreaker Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Moblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Fireproof Lizard",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Fang",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 15
-            }
-          ],
-          "4": [
-            {
-              "name": "Black Moblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Smotherwing Butterfly",
-              "quantity": 5
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Froggy Hood",
-        "type": "hat",
-        "set": "Froggy Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Sticky Lizard",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Frog",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Black Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Horriblin Guts",
-              "quantity": 10
-            },
-            {
-              "name": "Opal",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Froggy Sleeve",
-        "type": "shirt",
-        "set": "Froggy Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Sticky Lizard",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Frog",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Black Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Horriblin Guts",
-              "quantity": 10
-            },
-            {
-              "name": "Opal",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Froggy Leggings",
-        "type": "pants",
-        "set": "Froggy Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Sticky Lizard",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Blue Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Sticky Frog",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Black Horriblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Horriblin Guts",
-              "quantity": 10
-            },
-            {
-              "name": "Opal",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Frostbite Headdress",
-        "type": "hat",
-        "set": "Frostbite Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Ice Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Winterwing Butterfly",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Cold Darner",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Frost Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Chillfin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Frostbite Shirt",
-        "type": "shirt",
-        "set": "Frostbite Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Ice Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Winterwing Butterfly",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Cold Darner",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Frost Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Chillfin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Frostbite Trousers",
-        "type": "pants",
-        "set": "Frostbite Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Ice Fruit",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Ice-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Winterwing Butterfly",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Ice Like Stone",
-              "quantity": 5
-            },
-            {
-              "name": "Cold Darner",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Frost Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Chillfin Trout",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonai Charge",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Glide Mask",
-        "type": "hat",
-        "set": "Glide Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 6
-            },
-            {
-              "name": "Keese Wing",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 6
-            },
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Wing",
-              "quantity": 12
-            },
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Gibdo Wing",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
-        "name": "Glide Shirt",
-        "type": "shirt",
-        "set": "Glide Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 6
-            },
-            {
-              "name": "Keese Wing",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 6
-            },
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Wing",
-              "quantity": 12
-            },
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Gibdo Wing",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
-        "name": "Glide Tights",
-        "type": "pants",
-        "set": "Glide Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 6
-            },
-            {
-              "name": "Keese Wing",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 6
-            },
-            {
-              "name": "Aerocuda Eyeball",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Gleeok Wing",
-              "quantity": 12
-            },
-            {
-              "name": "Aerocuda Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Gibdo Wing",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
-        "name": "Hylian Hood",
-        "type": "hat",
-        "set": "Hylian Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Horn",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Blue Bokoblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Bokoblin Fang",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Amber",
-              "quantity": 20
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Black Bokoblin Horn",
-              "quantity": 10
-            }
-          ],
-          "4": [
-            {
-              "name": "Amber",
-              "quantity": 30
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Silver Bokoblin Horn",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Hylian Tunic",
-        "type": "shirt",
-        "set": "Hylian Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Horn",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Blue Bokoblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Bokoblin Fang",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Amber",
-              "quantity": 20
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Black Bokoblin Horn",
-              "quantity": 10
-            }
-          ],
-          "4": [
-            {
-              "name": "Amber",
-              "quantity": 30
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Silver Bokoblin Horn",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Hylian Trousers",
-        "type": "pants",
-        "set": "Hylian Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Horn",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Blue Bokoblin Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Bokoblin Fang",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Amber",
-              "quantity": 20
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Black Bokoblin Horn",
-              "quantity": 10
-            }
-          ],
-          "4": [
-            {
-              "name": "Amber",
-              "quantity": 30
-            },
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Silver Bokoblin Horn",
-              "quantity": 5
             }
           ]
         }
@@ -1895,6 +2384,1897 @@ function generateProfile() {
         "ingredients": {}
       },
       {
+        "name": "Ember Headdress",
+        "type": "hat",
+        "set": "Ember Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Fire Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Summerwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            },
+            {
+              "name": "Fire Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Sizzlefin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            },
+            {
+              "name": "Gleeok Flame Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Ember Shirt",
+        "type": "shirt",
+        "set": "Ember Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Fire Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Summerwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            },
+            {
+              "name": "Fire Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Sizzlefin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            },
+            {
+              "name": "Gleeok Flame Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Ember Trousers",
+        "type": "pants",
+        "set": "Ember Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Fire Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Summerwing Butterfly",
+              "quantity": 5
+            },
+            {
+              "name": "Fire-Breath Lizalfos Horn",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            },
+            {
+              "name": "Fire Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Warm Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Sizzlefin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            },
+            {
+              "name": "Gleeok Flame Horn",
+              "quantity": 5
+            }
+          ]
+        }
+      },
+      {
+        "name": "Charged Headdress",
+        "type": "hat",
+        "set": "Charged Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Shock Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Thunderwing Butterfly",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 3
+            },
+            {
+              "name": "Shock Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Thunder Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Voltfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Charged Shirt",
+        "type": "shirt",
+        "set": "Charged Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Shock Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Thunderwing Butterfly",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 3
+            },
+            {
+              "name": "Shock Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Thunder Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Voltfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Charged Trousers",
+        "type": "hat",
+        "set": "Charged Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Shock Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Electric Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Thunderwing Butterfly",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 3
+            },
+            {
+              "name": "Shock Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Electric Darner",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Thunder Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Voltfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frostbite Headdress",
+        "type": "hat",
+        "set": "Frostbite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Ice Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Winterwing Butterfly",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Cold Darner",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Frost Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Chillfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frostbite Shirt",
+        "type": "shirt",
+        "set": "Frostbite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Ice Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Winterwing Butterfly",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Cold Darner",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Frost Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Chillfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frostbite Trousers",
+        "type": "pants",
+        "set": "Frostbite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Ice Fruit",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Ice-Breath Lizalfos Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Winterwing Butterfly",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Ice Like Stone",
+              "quantity": 5
+            },
+            {
+              "name": "Cold Darner",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Gleeok Frost Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Chillfin Trout",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonai Charge",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Yiga Mask",
+        "type": "hat",
+        "set": "Yiga Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Octorok Eyeball",
+              "quantity": 2
+            },
+          ],
+          "2": [
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Puffshroom",
+              "quantity": 3
+            },
+          ],
+          "3": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Black Hinox Horn",
+              "quantity": 3
+            },
+            {
+              "name": "Mighty Banana",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Yiga Armor",
+        "type": "shirt",
+        "set": "Yiga Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Octorok Eyeball",
+              "quantity": 2
+            },
+          ],
+          "2": [
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Puffshroom",
+              "quantity": 3
+            },
+          ],
+          "3": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Black Hinox Horn",
+              "quantity": 3
+            },
+            {
+              "name": "Mighty Banana",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Yiga Tights",
+        "type": "pants",
+        "set": "Yiga Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Octorok Eyeball",
+              "quantity": 2
+            },
+          ],
+          "2": [
+            {
+              "name": "Fire-Breath Lizalfos Tail",
+              "quantity": 3
+            },
+            {
+              "name": "Puffshroom",
+              "quantity": 3
+            },
+          ],
+          "3": [
+            {
+              "name": "Keese Eyeball",
+              "quantity": 5
+            },
+            {
+              "name": "Ice-Breath Lizalfos Tail",
+              "quantity": 5
+            },
+          ],
+          "4": [
+            {
+              "name": "Electric Lizalfos Tail",
+              "quantity": 5
+            },
+            {
+              "name": "Black Hinox Horn",
+              "quantity": 3
+            },
+            {
+              "name": "Mighty Banana",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vah Medoh Divine Helm",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Sapphire",
+              "quantity": 1
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Sapphire",
+              "quantity": 4
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 10
+            }
+          ],
+          "3": [
+            {
+              "name": "Sapphire",
+              "quantity": 6
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Sapphire",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vah Rudania Divine Helm",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Ruby",
+              "quantity": 1
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Ruby",
+              "quantity": 4
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 10
+            }
+          ],
+          "3": [
+            {
+              "name": "Ruby",
+              "quantity": 6
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Ruby",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vah Ruta Divine Helm",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Opal",
+              "quantity": 5
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Opal",
+              "quantity": 10
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 10
+            }
+          ],
+          "3": [
+            {
+              "name": "Opal",
+              "quantity": 15
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 25
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vah Naboris Divine Helm",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Topaz",
+              "quantity": 1
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Topaz",
+              "quantity": 4
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 10
+            }
+          ],
+          "3": [
+            {
+              "name": "Topaz",
+              "quantity": 6
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Topaz",
+              "quantity": 10
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            },
+            {
+              "name": "Dazzlefruit",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zonaite Helm",
+        "type": "hat",
+        "set": "Zonaite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Soldier Construct Horn",
+              "quantity": 5
+            },
+          ],
+          "2": [
+            {
+              "name": "Soldier Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct I Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Soldier Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Soldier Construct IV Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zonaite Waistguard",
+        "type": "shirt",
+        "set": "Zonaite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Soldier Construct Horn",
+              "quantity": 5
+            },
+          ],
+          "2": [
+            {
+              "name": "Soldier Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct I Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Soldier Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Soldier Construct IV Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zonaite Shin Guards",
+        "type": "pants",
+        "set": "Zonaite Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Soldier Construct Horn",
+              "quantity": 5
+            },
+          ],
+          "2": [
+            {
+              "name": "Soldier Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct I Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Soldier Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct II Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Soldier Construct IV Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Captain Construct III Horn",
+              "quantity": 5
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Amber Earrings",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Amber",
+              "quantity": 10
+            },
+            {
+              "name": "Flint",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Amber",
+              "quantity": 20
+            },
+            {
+              "name": "Flint",
+              "quantity": 10
+            }
+          ],
+          "3": [
+            {
+              "name": "Amber",
+              "quantity": 35
+            },
+            {
+              "name": "Flint",
+              "quantity": 15
+            }
+          ],
+          "4": [
+            {
+              "name": "Amber",
+              "quantity": 60
+            },
+            {
+              "name": "Flint",
+              "quantity": 25
+            }
+          ]
+        }
+      },
+      {
+        "name": "Diamond Circlet",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Diamond",
+              "quantity": 2
+            },
+            {
+              "name": "Flint",
+              "quantity": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Diamond",
+              "quantity": 3
+            },
+            {
+              "name": "Flint",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Diamond",
+              "quantity": 5
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Diamond",
+              "quantity": 8
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 2
+            }
+          ]
+        }
+      },
+      {
+        "name": "Opal Earrings",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Flint",
+              "quantity": 5
+            },
+            {
+              "name": "Opal",
+              "quantity": 6
+            }
+          ],
+          "2": [
+            {
+              "name": "Flint",
+              "quantity": 10
+            },
+            {
+              "name": "Opal",
+              "quantity": 12
+            }
+          ],
+          "3": [
+            {
+              "name": "Flint",
+              "quantity": 15
+            },
+            {
+              "name": "Opal",
+              "quantity": 18
+            }
+          ],
+          "4": [
+            {
+              "name": "Flint",
+              "quantity": 25
+            },
+            {
+              "name": "Opal",
+              "quantity": 30
+            }
+          ]
+        }
+      },
+      {
+        "name": "Ruby Circlet",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Flint",
+              "quantity": 3
+            },
+            {
+              "name": "Ruby",
+              "quantity": 2
+            }
+          ],
+          "2": [
+            {
+              "name": "Flint",
+              "quantity": 5
+            },
+            {
+              "name": "Ruby",
+              "quantity": 4
+            }
+          ],
+          "3": [
+            {
+              "name": "Ruby",
+              "quantity": 6
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Ruby",
+              "quantity": 10
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 2
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sapphire Circlet",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Flint",
+              "quantity": 3
+            },
+            {
+              "name": "Sapphire",
+              "quantity": 2
+            }
+          ],
+          "2": [
+            {
+              "name": "Flint",
+              "quantity": 5
+            },
+            {
+              "name": "Sapphire",
+              "quantity": 4
+            }
+          ],
+          "3": [
+            {
+              "name": "Sapphire",
+              "quantity": 6
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Sapphire",
+              "quantity": 10
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 2
+            }
+          ]
+        }
+      },
+      {
+        "name": "Topaz Earrings",
+        "type": "hat",
+        "set": "Fancy Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Flint",
+              "quantity": 3
+            },
+            {
+              "name": "Topaz",
+              "quantity": 2
+            }
+          ],
+          "2": [
+            {
+              "name": "Flint",
+              "quantity": 5
+            },
+            {
+              "name": "Topaz",
+              "quantity": 4
+            }
+          ],
+          "3": [
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            },
+            {
+              "name": "Topaz",
+              "quantity": 6
+            }
+          ],
+          "4": [
+            {
+              "name": "Star Fragment",
+              "quantity": 2
+            },
+            {
+              "name": "Topaz",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Well-Worn Hair Band",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Cece Hat",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Lightning Helm",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Bokoblin Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Horriblin Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Moblin Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Lizalfos Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Lynel Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Champion's Leathers",
+        "type": "shirt",
+        "set": "Fun Shirts",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Silent Princess",
+              "quantity": 3
+            },
+            {
+              "name": "Light Dragon's Scale",
+              "quantity": 2
+            },
+          ],
+          "2": [
+            {
+              "name": "Light Dragon's Claw",
+              "quantity": 2
+            },
+            {
+              "name": "Sundelion",
+              "quantity": 10
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Light Dragon's Fang",
+              "quantity": 2
+            },
+            {
+              "name": "Sundelion",
+              "quantity": 15
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Light Dragon's Horn",
+              "quantity": 2
+            },
+            {
+              "name": "Sundelion",
+              "quantity": 20
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tunic of Memories",
+        "type": "shirt",
+        "set": "Fun Shirts",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Silent Princess",
+              "quantity": 3
+            },
+          ],
+          "2": [
+            {
+              "name": "Farosh's Horn",
+              "quantity": 2
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 3
+            }
+          ],
+          "3": [
+            {
+              "name": "Naydra's Horn",
+              "quantity": 2
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 5
+            }
+          ],
+          "4": [
+            {
+              "name": "Dinraal's Horn",
+              "quantity": 2
+            },
+            {
+              "name": "Silent Princess",
+              "quantity": 10
+            }
+          ]
+        }
+      },
+      {
+        "name": "Island Lobster Shirt",
+        "type": "shirt",
+        "set": "Fun Shirts",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Midna's Helmet",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Majora's Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Korok Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Phantom Helmet",
+        "type": "hat",
+        "set": "Phantom Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Phantom Armor",
+        "type": "shirt",
+        "set": "Phantom Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Phantom Greaves",
+        "type": "pants",
+        "set": "Phantom Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Evil Spirit Mask",
+        "type": "hat",
+        "set": "Evil Spirit Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Evil Spirit Armor",
+        "type": "shirt",
+        "set": "Evil Spirit Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Evil Spirit Greaves",
+        "type": "pants",
+        "set": "Evil Spirit Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Sheik's Mask",
+        "type": "hat",
+        "set": "Fun Hats",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Silent Princess",
+              "quantity": 1
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Silent Princess",
+              "quantity": 2
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 2
+            }
+          ],
+          "3": [
+            {
+              "name": "Silent Princess",
+              "quantity": 4
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 3
+            }
+          ],
+          "4": [
+            {
+              "name": "Silent Princess",
+              "quantity": 8
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 4
+            }
+          ]
+        }
+      },
+      {
+        "name": "Dark Hood",
+        "type": "hat",
+        "set": "Dark Link Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Dark Tunic",
+        "type": "shirt",
+        "set": "Dark Link Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Dark Trousers",
+        "type": "pants",
+        "set": "Dark Link Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Fierce Deity Mask",
+        "type": "hat",
+        "set": "Fierce Deity Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Dinraal's Scale",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Toenail",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Dinraal's Claw",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Tooth",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Dinraal's Fang",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Dinraal's Horn",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Fierce Deity Armor",
+        "type": "shirt",
+        "set": "Fierce Deity Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Naydra's Scale",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Toenail",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Naydra's Claw",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Tooth",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Naydra's Fang",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Naydra's Horn",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Fierce Deity Boots",
+        "type": "pants",
+        "set": "Fierce Deity Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Farosh's Scale",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Toenail",
+              "quantity": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Farosh's Claw",
+              "quantity": 1
+            },
+            {
+              "name": "Hinox Tooth",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Hinox Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Farosh's Fang",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Lynel Guts",
+              "quantity": 2
+            },
+            {
+              "name": "Farosh's Horn",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
         "name": "Radiant Mask",
         "type": "hat",
         "set": "Radiant Set",
@@ -2060,183 +4440,6 @@ function generateProfile() {
         }
       },
       {
-        "name": "Rubber Helm",
-        "type": "hat",
-        "set": "Rubber Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 1
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Voltfruit",
-              "quantity": 5
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 8
-            }
-          ],
-          "3": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Zapshroom",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Safflina",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Topaz",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
-        "name": "Rubber Armor",
-        "type": "shirt",
-        "set": "Rubber Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 1
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Voltfruit",
-              "quantity": 5
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 8
-            }
-          ],
-          "3": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Zapshroom",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Safflina",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Topaz",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
-        "name": "Rubber Tights",
-        "type": "pants",
-        "set": "Rubber Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 1
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Voltfruit",
-              "quantity": 5
-            },
-            {
-              "name": "Yellow Chuchu Jelly",
-              "quantity": 8
-            }
-          ],
-          "3": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Zapshroom",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Safflina",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Topaz",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 8
-            }
-          ]
-        }
-      },
-      {
         "name": "Stealth Mask",
         "type": "hat",
         "set": "Stealth Set",
@@ -2390,9 +4593,9 @@ function generateProfile() {
         }
       },
       {
-        "name": "Snowquill Headdress",
+        "name": "Mask of Awakening",
         "type": "hat",
-        "set": "Snowquill Set",
+        "set": "Awakening Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -2400,54 +4603,50 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Red Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Red Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Sunshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
+              "name": "Luminous Stone",
               "quantity": 10
             },
             {
-              "name": "Ruby",
-              "quantity": 5
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 15
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "3": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 20
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 30
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ]
         }
       },
       {
-        "name": "Snowquill Tunic",
+        "name": "Tunic of Awakening",
         "type": "shirt",
-        "set": "Snowquill Set",
+        "set": "Awakening Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -2455,54 +4654,50 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Red Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Red Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Sunshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
+              "name": "Luminous Stone",
               "quantity": 10
             },
             {
-              "name": "Ruby",
-              "quantity": 5
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 15
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "3": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 20
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Luminous Stone",
+              "quantity": 30
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ]
         }
       },
       {
-        "name": "Snowquill Trousers",
+        "name": "Trousers of Awakening",
         "type": "pants",
-        "set": "Snowquill Set",
+        "set": "Awakening Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -2510,388 +4705,42 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Red Chuchu Jelly",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Red Chuchu Jelly",
-              "quantity": 5
-            },
-            {
-              "name": "Warm Safflina",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Sunshroom",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire-Breath Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Fire-Breath Lizalfos Tail",
+              "name": "Luminous Stone",
               "quantity": 10
             },
             {
-              "name": "Ruby",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Soldier's Helm",
-        "type": "hat",
-        "set": "Soldier Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Chuchu Jelly",
-              "quantity": 5
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ],
           "2": [
             {
-              "name": "Keese Eyeball",
-              "quantity": 5
+              "name": "Luminous Stone",
+              "quantity": 15
             },
             {
-              "name": "Moblin Guts",
-              "quantity": 3
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ],
           "3": [
             {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Lynel Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Lynel Hoof",
-              "quantity": 5
-            },
-            {
-              "name": "Amber",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Soldier's Armor",
-        "type": "shirt",
-        "set": "Soldier Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Chuchu Jelly",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Guts",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Lynel Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Lynel Hoof",
-              "quantity": 5
-            },
-            {
-              "name": "Amber",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Soldier's Greaves",
-        "type": "pants",
-        "set": "Soldier Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Chuchu Jelly",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Guts",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Lynel Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Lynel Hoof",
-              "quantity": 5
-            },
-            {
-              "name": "Amber",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zora Helm",
-        "type": "hat",
-        "set": "Zora Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Lizalfos Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Hyrule Bass",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Talon",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hearty Bass",
-              "quantity": 3
-            },
-            {
-              "name": "Blue Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
+              "name": "Luminous Stone",
               "quantity": 20
             },
             {
-              "name": "Black Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Blue Lizalfos Tail",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zora Armor",
-        "type": "shirt",
-        "set": "Zora Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Lizalfos Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Hyrule Bass",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Talon",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hearty Bass",
-              "quantity": 3
-            },
-            {
-              "name": "Blue Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ],
           "4": [
             {
-              "name": "Opal",
-              "quantity": 20
+              "name": "Luminous Stone",
+              "quantity": 30
             },
             {
-              "name": "Black Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Blue Lizalfos Tail",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zora Greaves",
-        "type": "pants",
-        "set": "Zora Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Lizalfos Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Hyrule Bass",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Talon",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hearty Bass",
-              "quantity": 3
-            },
-            {
-              "name": "Blue Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
-              "quantity": 20
-            },
-            {
-              "name": "Black Lizalfos Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Blue Lizalfos Tail",
-              "quantity": 5
+              "name": "Star Fragment",
+              "quantity": 1
             }
           ]
         }
@@ -3227,159 +5076,6 @@ function generateProfile() {
         }
       },
       {
-        "name": "Cap of the Wind",
-        "type": "hat",
-        "set": "The Wind Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Opal",
-              "quantity": 5
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Opal",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Opal",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
-              "quantity": 25
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
-      },
-      {
-        "name": "Tunic of the Wind",
-        "type": "shirt",
-        "set": "The Wind Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Opal",
-              "quantity": 5
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Opal",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Opal",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
-              "quantity": 25
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
-      },
-      {
-        "name": "Trousers of the Wind",
-        "type": "pants",
-        "set": "The Wind Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Opal",
-              "quantity": 5
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Opal",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Opal",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
-              "quantity": 25
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
-      },
-      {
         "name": "Cap of Time",
         "type": "hat",
         "set": "Time Set",
@@ -3524,6 +5220,159 @@ function generateProfile() {
             {
               "name": "Amber",
               "quantity": 50
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Cap of the Wind",
+        "type": "hat",
+        "set": "The Wind Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Opal",
+              "quantity": 5
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Opal",
+              "quantity": 10
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "3": [
+            {
+              "name": "Opal",
+              "quantity": 15
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 25
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tunic of the Wind",
+        "type": "shirt",
+        "set": "The Wind Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Opal",
+              "quantity": 5
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Opal",
+              "quantity": 10
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "3": [
+            {
+              "name": "Opal",
+              "quantity": 15
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 25
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Trousers of the Wind",
+        "type": "pants",
+        "set": "The Wind Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {
+          "1": [
+            {
+              "name": "Opal",
+              "quantity": 5
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "2": [
+            {
+              "name": "Opal",
+              "quantity": 10
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "3": [
+            {
+              "name": "Opal",
+              "quantity": 15
+            },
+            {
+              "name": "Star Fragment",
+              "quantity": 1
+            }
+          ],
+          "4": [
+            {
+              "name": "Opal",
+              "quantity": 25
             },
             {
               "name": "Star Fragment",
@@ -3686,1371 +5535,6 @@ function generateProfile() {
         }
       },
       {
-        "name": "Sheik's Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Silent Princess",
-              "quantity": 1
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Silent Princess",
-              "quantity": 2
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 2
-            }
-          ],
-          "3": [
-            {
-              "name": "Silent Princess",
-              "quantity": 4
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 3
-            }
-          ],
-          "4": [
-            {
-              "name": "Silent Princess",
-              "quantity": 8
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 4
-            }
-          ]
-        }
-      },
-      {
-        "name": "Vah Ruta Divine Helm",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Opal",
-              "quantity": 5
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Opal",
-              "quantity": 10
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 10
-            }
-          ],
-          "3": [
-            {
-              "name": "Opal",
-              "quantity": 15
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Opal",
-              "quantity": 25
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Vah Naboris Divine Helm",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Topaz",
-              "quantity": 1
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Topaz",
-              "quantity": 4
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 10
-            }
-          ],
-          "3": [
-            {
-              "name": "Topaz",
-              "quantity": 6
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Topaz",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Vah Medoh Divine Helm",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Sapphire",
-              "quantity": 1
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Sapphire",
-              "quantity": 4
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 10
-            }
-          ],
-          "3": [
-            {
-              "name": "Sapphire",
-              "quantity": 6
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Sapphire",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Vah Rudania Divine Helm",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Ruby",
-              "quantity": 1
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Ruby",
-              "quantity": 4
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 10
-            }
-          ],
-          "3": [
-            {
-              "name": "Ruby",
-              "quantity": 6
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Ruby",
-              "quantity": 10
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            },
-            {
-              "name": "Dazzlefruit",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Cece Hat",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Tingle's Hood",
-        "type": "hat",
-        "set": "Tingle Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Tingle's Shirt",
-        "type": "shirt",
-        "set": "Tingle Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Tingle's Tights",
-        "type": "pants",
-        "set": "Tingle Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Phantom Helmet",
-        "type": "hat",
-        "set": "Phantom Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Phantom Armor",
-        "type": "shirt",
-        "set": "Phantom Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Phantom Greaves",
-        "type": "pants",
-        "set": "Phantom Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Korok Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Midna's Helmet",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Majora's Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Champion's Leathers",
-        "type": "shirt",
-        "set": "Fun Shirts",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Silent Princess",
-              "quantity": 3
-            },
-            {
-              "name": "Light Dragon's Scale",
-              "quantity": 2
-            },
-          ],
-          "2": [
-            {
-              "name": "Light Dragon's Claw",
-              "quantity": 2
-            },
-            {
-              "name": "Sundelion",
-              "quantity": 10
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Light Dragon's Fang",
-              "quantity": 2
-            },
-            {
-              "name": "Sundelion",
-              "quantity": 15
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Light Dragon's Horn",
-              "quantity": 2
-            },
-            {
-              "name": "Sundelion",
-              "quantity": 20
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Tunic of Memories",
-        "type": "shirt",
-        "set": "Fun Shirts",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Silent Princess",
-              "quantity": 3
-            },
-          ],
-          "2": [
-            {
-              "name": "Farosh's Horn",
-              "quantity": 2
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Naydra's Horn",
-              "quantity": 2
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Dinraal's Horn",
-              "quantity": 2
-            },
-            {
-              "name": "Silent Princess",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Sand Boots",
-        "type": "pants",
-        "set": "Fun Pants",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Hightail Lizard",
-              "quantity": 3
-            },
-          ],
-          "2": [
-            {
-              "name": "Gibdo Bone",
-              "quantity": 20
-            },
-            {
-              "name": "Swift Carrot",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Gibdo Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Rushroom",
-              "quantity": 10
-            },
-            {
-              "name": "Molduga Fin",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Molduga Guts",
-              "quantity": 5
-            },
-            {
-              "name": "Swift Violet",
-              "quantity": 10
-            },
-            {
-              "name": "Hearty Lizard",
-              "quantity": 5
-            }
-          ]
-        }
-      },
-      {
-        "name": "Snow Boots",
-        "type": "pants",
-        "set": "Fun Pants",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Hightail Lizard",
-              "quantity": 3
-            },
-          ],
-          "2": [
-            {
-              "name": "Octorok Tentacle",
-              "quantity": 5
-            },
-            {
-              "name": "Swift Carrot",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Octo Balloon",
-              "quantity": 5
-            },
-            {
-              "name": "Rushroom",
-              "quantity": 20
-            }
-          ],
-          "4": [
-            {
-              "name": "Naydra's Scale",
-              "quantity": 2
-            },
-            {
-              "name": "Swift Violet",
-              "quantity": 20
-            }
-          ]
-        }
-      },
-      {
-        "name": "Lightning Helm",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Amber Earrings",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Amber",
-              "quantity": 10
-            },
-            {
-              "name": "Flint",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Amber",
-              "quantity": 20
-            },
-            {
-              "name": "Flint",
-              "quantity": 10
-            }
-          ],
-          "3": [
-            {
-              "name": "Amber",
-              "quantity": 35
-            },
-            {
-              "name": "Flint",
-              "quantity": 15
-            }
-          ],
-          "4": [
-            {
-              "name": "Amber",
-              "quantity": 60
-            },
-            {
-              "name": "Flint",
-              "quantity": 25
-            }
-          ]
-        }
-      },
-      {
-        "name": "Diamond Circlet",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Diamond",
-              "quantity": 2
-            },
-            {
-              "name": "Flint",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Diamond",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Diamond",
-              "quantity": 5
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Diamond",
-              "quantity": 8
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 2
-            }
-          ]
-        }
-      },
-      {
-        "name": "Opal Earrings",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Flint",
-              "quantity": 5
-            },
-            {
-              "name": "Opal",
-              "quantity": 6
-            }
-          ],
-          "2": [
-            {
-              "name": "Flint",
-              "quantity": 10
-            },
-            {
-              "name": "Opal",
-              "quantity": 12
-            }
-          ],
-          "3": [
-            {
-              "name": "Flint",
-              "quantity": 15
-            },
-            {
-              "name": "Opal",
-              "quantity": 18
-            }
-          ],
-          "4": [
-            {
-              "name": "Flint",
-              "quantity": 25
-            },
-            {
-              "name": "Opal",
-              "quantity": 30
-            }
-          ]
-        }
-      },
-      {
-        "name": "Ruby Circlet",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Flint",
-              "quantity": 3
-            },
-            {
-              "name": "Ruby",
-              "quantity": 2
-            }
-          ],
-          "2": [
-            {
-              "name": "Flint",
-              "quantity": 5
-            },
-            {
-              "name": "Ruby",
-              "quantity": 4
-            }
-          ],
-          "3": [
-            {
-              "name": "Ruby",
-              "quantity": 6
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Ruby",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 2
-            }
-          ]
-        }
-      },
-      {
-        "name": "Sapphire Circlet",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Flint",
-              "quantity": 3
-            },
-            {
-              "name": "Sapphire",
-              "quantity": 2
-            }
-          ],
-          "2": [
-            {
-              "name": "Flint",
-              "quantity": 5
-            },
-            {
-              "name": "Sapphire",
-              "quantity": 4
-            }
-          ],
-          "3": [
-            {
-              "name": "Sapphire",
-              "quantity": 6
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Sapphire",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 2
-            }
-          ]
-        }
-      },
-      {
-        "name": "Topaz Earrings",
-        "type": "hat",
-        "set": "Fancy Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Flint",
-              "quantity": 3
-            },
-            {
-              "name": "Topaz",
-              "quantity": 2
-            }
-          ],
-          "2": [
-            {
-              "name": "Flint",
-              "quantity": 5
-            },
-            {
-              "name": "Topaz",
-              "quantity": 4
-            }
-          ],
-          "3": [
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            },
-            {
-              "name": "Topaz",
-              "quantity": 6
-            }
-          ],
-          "4": [
-            {
-              "name": "Star Fragment",
-              "quantity": 2
-            },
-            {
-              "name": "Topaz",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Well-Worn Hair Band",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Bokoblin Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Horriblin Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Lizalfos Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Lynel Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Moblin Mask",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Evil Spirit Mask",
-        "type": "hat",
-        "set": "Evil Spirit Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Evil Spirit Armor",
-        "type": "shirt",
-        "set": "Evil Spirit Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Evil Spirit Greaves",
-        "type": "pants",
-        "set": "Evil Spirit Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Royal Guard Cap",
-        "type": "hat",
-        "set": "Royal Guard Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Boss Bokoblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Guts",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Silver Boss Bokoblin Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Molduga Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Gleeok Guts",
-              "quantity": 3
-            }
-          ]
-        }
-      },
-      {
-        "name": "Royal Guard Uniform",
-        "type": "shirt",
-        "set": "Royal Guard Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Boss Bokoblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Guts",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Silver Boss Bokoblin Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Molduga Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Gleeok Guts",
-              "quantity": 3
-            }
-          ]
-        }
-      },
-      {
-        "name": "Royal Guard Boots",
-        "type": "pants",
-        "set": "Royal Guard Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Bokoblin Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Boss Bokoblin Horn",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Moblin Guts",
-              "quantity": 3
-            }
-          ],
-          "3": [
-            {
-              "name": "Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Hinox Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Flint",
-              "quantity": 30
-            }
-          ],
-          "4": [
-            {
-              "name": "Silver Boss Bokoblin Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Molduga Guts",
-              "quantity": 3
-            },
-            {
-              "name": "Gleeok Guts",
-              "quantity": 3
-            }
-          ]
-        }
-      },
-      {
-        "name": "Ravio's Hood",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Zant's Helmet",
-        "type": "hat",
-        "set": "Fun Hats",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Island Lobster Shirt",
-        "type": "shirt",
-        "set": "Fun Shirts",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {}
-      },
-      {
-        "name": "Climber's Bandana",
-        "type": "hat",
-        "set": "Climbing Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            },
-            {
-              "name": "Rushroom",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Electric Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Hightail Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hot-Footed Frog",
-              "quantity": 10
-            },
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Swift Violet",
-              "quantity": 20
-            }
-          ]
-        }
-      },
-      {
-        "name": "Climbing Gear",
-        "type": "shirt",
-        "set": "Climbing Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            },
-            {
-              "name": "Rushroom",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Electric Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Hightail Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hot-Footed Frog",
-              "quantity": 10
-            },
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Swift Violet",
-              "quantity": 20
-            }
-          ]
-        }
-      },
-      {
-        "name": "Climbing Boots",
-        "type": "pants",
-        "set": "Climbing Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Keese Wing",
-              "quantity": 3
-            },
-            {
-              "name": "Rushroom",
-              "quantity": 3
-            }
-          ],
-          "2": [
-            {
-              "name": "Electric Keese Wing",
-              "quantity": 5
-            },
-            {
-              "name": "Hightail Lizard",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hot-Footed Frog",
-              "quantity": 10
-            },
-            {
-              "name": "Ice Keese Wing",
-              "quantity": 8
-            }
-          ],
-          "4": [
-            {
-              "name": "Fire Keese Wing",
-              "quantity": 10
-            },
-            {
-              "name": "Swift Violet",
-              "quantity": 20
-            }
-          ]
-        }
-      },
-      {
         "name": "Cap of the Sky",
         "type": "hat",
         "set": "Sky Set",
@@ -5204,111 +5688,39 @@ function generateProfile() {
         }
       },
       {
-        "name": "Mask of Awakening",
+        "name": "Tingle's Hood",
         "type": "hat",
-        "set": "Awakening Set",
+        "set": "Tingle Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 20
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 30
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
+        "ingredients": {}
       },
       {
-        "name": "Tunic of Awakening",
+        "name": "Tingle's Shirt",
         "type": "shirt",
-        "set": "Awakening Set",
+        "set": "Tingle Set",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 10
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "2": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 20
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 30
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
+        "ingredients": {}
       },
       {
-        "name": "Trousers of Awakening",
+        "name": "Tingle's Tights",
         "type": "pants",
-        "set": "Awakening Set",
+        "set": "Tingle Set",
+        "fromAmiibo": false,
+        "fromDlc": false,
+        "obtained": false,
+        "currentLevel": 0,
+        "ingredients": {}
+      },
+      {
+        "name": "Sand Boots",
+        "type": "pants",
+        "set": "Fun Pants",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
@@ -5316,528 +5728,116 @@ function generateProfile() {
         "ingredients": {
           "1": [
             {
-              "name": "Luminous Stone",
-              "quantity": 10
+              "name": "Hightail Lizard",
+              "quantity": 3
             },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
           ],
           "2": [
             {
-              "name": "Luminous Stone",
-              "quantity": 15
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "3": [
-            {
-              "name": "Luminous Stone",
+              "name": "Gibdo Bone",
               "quantity": 20
             },
             {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Luminous Stone",
-              "quantity": 30
-            },
-            {
-              "name": "Star Fragment",
-              "quantity": 1
-            }
-          ]
-        }
-      },
-      {
-        "name": "Fierce Deity Mask",
-        "type": "hat",
-        "set": "Fierce Deity Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Dinraal's Scale",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Toenail",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Dinraal's Claw",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Tooth",
+              "name": "Swift Carrot",
               "quantity": 5
             }
           ],
           "3": [
             {
-              "name": "Hinox Guts",
-              "quantity": 2
+              "name": "Gibdo Guts",
+              "quantity": 5
             },
             {
-              "name": "Dinraal's Fang",
-              "quantity": 1
+              "name": "Rushroom",
+              "quantity": 10
+            },
+            {
+              "name": "Molduga Fin",
+              "quantity": 5
             }
           ],
           "4": [
             {
-              "name": "Lynel Guts",
-              "quantity": 2
+              "name": "Molduga Guts",
+              "quantity": 5
             },
             {
-              "name": "Dinraal's Horn",
-              "quantity": 1
+              "name": "Swift Violet",
+              "quantity": 10
+            },
+            {
+              "name": "Hearty Lizard",
+              "quantity": 5
             }
           ]
         }
       },
       {
-        "name": "Fierce Deity Armor",
-        "type": "shirt",
-        "set": "Fierce Deity Set",
+        "name": "Snow Boots",
+        "type": "pants",
+        "set": "Fun Pants",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
         "ingredients": {
           "1": [
+            {
+              "name": "Hightail Lizard",
+              "quantity": 3
+            },
+          ],
+          "2": [
+            {
+              "name": "Octorok Tentacle",
+              "quantity": 5
+            },
+            {
+              "name": "Swift Carrot",
+              "quantity": 5
+            }
+          ],
+          "3": [
+            {
+              "name": "Octo Balloon",
+              "quantity": 5
+            },
+            {
+              "name": "Rushroom",
+              "quantity": 20
+            }
+          ],
+          "4": [
             {
               "name": "Naydra's Scale",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Toenail",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Naydra's Claw",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Tooth",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hinox Guts",
               "quantity": 2
             },
             {
-              "name": "Naydra's Fang",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Lynel Guts",
-              "quantity": 2
-            },
-            {
-              "name": "Naydra's Horn",
-              "quantity": 1
+              "name": "Swift Violet",
+              "quantity": 20
             }
           ]
         }
       },
       {
-        "name": "Fierce Deity Boots",
-        "type": "pants",
-        "set": "Fierce Deity Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Farosh's Scale",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Toenail",
-              "quantity": 5
-            }
-          ],
-          "2": [
-            {
-              "name": "Farosh's Claw",
-              "quantity": 1
-            },
-            {
-              "name": "Hinox Tooth",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Hinox Guts",
-              "quantity": 2
-            },
-            {
-              "name": "Farosh's Fang",
-              "quantity": 1
-            }
-          ],
-          "4": [
-            {
-              "name": "Lynel Guts",
-              "quantity": 2
-            },
-            {
-              "name": "Farosh's Horn",
-              "quantity": 1
-            }
-          ]
-        }
-      },
-      {
-        "name": "Yiga Mask",
+        "name": "Ravio's Hood",
         "type": "hat",
-        "set": "Yiga Set",
+        "set": "Fun Hats",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Octorok Eyeball",
-              "quantity": 2
-            },
-          ],
-          "2": [
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Puffshroom",
-              "quantity": 3
-            },
-          ],
-          "3": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Black Hinox Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Mighty Banana",
-              "quantity": 10
-            }
-          ]
-        }
+        "ingredients": {}
       },
       {
-        "name": "Yiga Armor",
-        "type": "shirt",
-        "set": "Yiga Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Octorok Eyeball",
-              "quantity": 2
-            },
-          ],
-          "2": [
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Puffshroom",
-              "quantity": 3
-            },
-          ],
-          "3": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Black Hinox Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Mighty Banana",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Yiga Tights",
-        "type": "pants",
-        "set": "Yiga Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Octorok Eyeball",
-              "quantity": 2
-            },
-          ],
-          "2": [
-            {
-              "name": "Fire-Breath Lizalfos Tail",
-              "quantity": 3
-            },
-            {
-              "name": "Puffshroom",
-              "quantity": 3
-            },
-          ],
-          "3": [
-            {
-              "name": "Keese Eyeball",
-              "quantity": 5
-            },
-            {
-              "name": "Ice-Breath Lizalfos Tail",
-              "quantity": 5
-            },
-          ],
-          "4": [
-            {
-              "name": "Electric Lizalfos Tail",
-              "quantity": 5
-            },
-            {
-              "name": "Black Hinox Horn",
-              "quantity": 3
-            },
-            {
-              "name": "Mighty Banana",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zonaite Helm",
+        "name": "Zant's Helmet",
         "type": "hat",
-        "set": "Zonaite Set",
+        "set": "Fun Hats",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Soldier Construct Horn",
-              "quantity": 5
-            },
-          ],
-          "2": [
-            {
-              "name": "Soldier Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct I Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Soldier Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Soldier Construct IV Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zonaite Waistguard",
-        "type": "shirt",
-        "set": "Zonaite Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Soldier Construct Horn",
-              "quantity": 5
-            },
-          ],
-          "2": [
-            {
-              "name": "Soldier Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct I Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Soldier Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Soldier Construct IV Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            }
-          ]
-        }
-      },
-      {
-        "name": "Zonaite Shin Guards",
-        "type": "pants",
-        "set": "Zonaite Set",
-        "fromAmiibo": false,
-        "fromDlc": false,
-        "obtained": false,
-        "currentLevel": 0,
-        "ingredients": {
-          "1": [
-            {
-              "name": "Soldier Construct Horn",
-              "quantity": 5
-            },
-          ],
-          "2": [
-            {
-              "name": "Soldier Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct I Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Zonaite",
-              "quantity": 5
-            }
-          ],
-          "3": [
-            {
-              "name": "Soldier Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct II Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 5
-            }
-          ],
-          "4": [
-            {
-              "name": "Soldier Construct IV Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Captain Construct III Horn",
-              "quantity": 5
-            },
-            {
-              "name": "Large Zonaite",
-              "quantity": 10
-            }
-          ]
-        }
+        "ingredients": {}
       },
       {
         "name": "Ancient Hero's Aspect",
