@@ -5841,13 +5841,70 @@ function generateProfile() {
       },
       {
         "name": "Ancient Hero's Aspect",
-        "type": "pants",
+        "type": "hat",
         "set": "Fun Hats",
         "fromAmiibo": false,
         "fromDlc": false,
         "obtained": false,
         "currentLevel": 0,
-        "ingredients": {}
+        "ingredients": {
+          "1": [
+            {
+              "name": "Silver Bokoblin Horn",
+              "quantity": 9
+            },
+            {
+              "name": "Hinox Guts",
+              "quantity": 9
+            },
+            {
+              "name": "Zonaite",
+              "quantity": 9
+            },
+          ],
+          "2": [
+            {
+              "name": "Silver Moblin Horn",
+              "quantity": 9
+            },
+            {
+              "name": "Frox Guts",
+              "quantity": 9
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 15
+            },
+          ],
+          "3": [
+            {
+              "name": "Silver Lizalfos Horn",
+              "quantity": 9
+            },
+            {
+              "name": "Molduga Guts",
+              "quantity": 9
+            },
+            {
+              "name": "Large Zonaite",
+              "quantity": 15
+            },
+          ],
+          "4": [
+            {
+              "name": "Silver Lynel Saber Horn",
+              "quantity": 9
+            },
+            {
+              "name": "Silver Lynel Mace Horn",
+              "quantity": 9
+            },
+            {
+              "name": "Gleeok Guts",
+              "quantity": 9
+            },
+          ]
+        }
       },
     ],
     inventory: {
