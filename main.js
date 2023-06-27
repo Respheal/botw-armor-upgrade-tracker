@@ -2931,17 +2931,17 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Farosh's Fang",
+              "name": "Farosh's Fang",
               "quantity": 2
             },
             {
-              "name": "Shard of Farosh's Spike",
+              "name": "Farosh's Spike",
               "quantity": 5
             }
           ],
           "4": [
             {
-              "name": "Shard of Farosh's Horn",
+              "name": "Farosh's Horn",
               "quantity": 2
             },
             {
@@ -2949,7 +2949,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Farosh's Spike",
+              "name": "Farosh's Spike",
               "quantity": 10
             }
           ]
@@ -2990,17 +2990,17 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Naydra's Fang",
+              "name": "Naydra's Fang",
               "quantity": 2
             },
             {
-              "name": "Shard of Naydra's Spike",
+              "name": "Naydra's Spike",
               "quantity": 5
             }
           ],
           "4": [
             {
-              "name": "Shard of Naydra's Horn",
+              "name": "Naydra's Horn",
               "quantity": 2
             },
             {
@@ -3008,7 +3008,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Naydra's Spike",
+              "name": "Naydra's Spike",
               "quantity": 10
             }
           ]
@@ -3045,7 +3045,7 @@ function generateProfile() {
           ],
           "3": [
             {
-              "name": "Shard of Dinraal's Fang",
+              "name": "Dinraal's Fang",
               "quantity": 2
             },
             {
@@ -3053,13 +3053,13 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Dinraal's Spike",
+              "name": "Dinraal's Spike",
               "quantity": 5
             }
           ],
           "4": [
             {
-              "name": "Shard of Dinraal's Horn",
+              "name": "Dinraal's Horn",
               "quantity": 2
             },
             {
@@ -3067,7 +3067,7 @@ function generateProfile() {
               "quantity": 3
             },
             {
-              "name": "Shard of Dinraal's Spike",
+              "name": "Dinraal's Spike",
               "quantity": 10
             }
           ]
@@ -4152,7 +4152,7 @@ function generateProfile() {
           ],
           "2": [
             {
-              "name": "Shard of Farosh's Horn",
+              "name": "Farosh's Horn",
               "quantity": 2
             },
             {
@@ -4162,7 +4162,7 @@ function generateProfile() {
           ],
           "3": [
             {
-              "name": "Shard of Naydra's Horn",
+              "name": "Naydra's Horn",
               "quantity": 2
             },
             {
@@ -4172,7 +4172,7 @@ function generateProfile() {
           ],
           "4": [
             {
-              "name": "Shard of Dinraal's Horn",
+              "name": "Dinraal's Horn",
               "quantity": 2
             },
             {
@@ -5391,7 +5391,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Dinraal's Fang",
+              "name": "Dinraal's Fang",
               "quantity": 1
             }
           ],
@@ -5401,7 +5401,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Dinraal's Horn",
+              "name": "Dinraal's Horn",
               "quantity": 1
             }
           ]
@@ -5442,7 +5442,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Naydra's Fang",
+              "name": "Naydra's Fang",
               "quantity": 1
             }
           ],
@@ -5452,7 +5452,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Naydra's Horn",
+              "name": "Naydra's Horn",
               "quantity": 1
             }
           ]
@@ -5493,7 +5493,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Farosh's Fang",
+              "name": "Farosh's Fang",
               "quantity": 1
             }
           ],
@@ -5503,7 +5503,7 @@ function generateProfile() {
               "quantity": 2
             },
             {
-              "name": "Shard of Farosh's Horn",
+              "name": "Farosh's Horn",
               "quantity": 1
             }
           ]

@@ -107,13 +107,13 @@ select {
 }
 
 aside {
-  width: 300px;
+  width: 350px;
   margin-right: 8px;
   padding: 10px;
 }
 
 main {
-  max-width: 1000px;
+  max-width: 1240px;
 }
 
 label {
@@ -200,7 +200,7 @@ label {
 }
 
 .card {
-  width: 300px;
+  width: 380px;
 }
 
 .spoiler-note {
