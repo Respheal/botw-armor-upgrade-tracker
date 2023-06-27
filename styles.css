@@ -347,437 +347,533 @@ label {
   width: 70px;
   height: 70px;
   background-image: url('armors.png');
-  background-size: auto 300px;
+  background-size: auto 70px;
   background-position-y: -1px;
   transition: 3s ease all;
 }
 
 .amberearrings {
-  background-position-x: calc(0 * -72px);
+  background-position: -140px 0;
 }
 
-.ancientcuirass {
-  background-position-x: calc(1 * -72px);
+.ancientherosaspect {
+  background-position: -210px 0;
 }
 
-.ancientgreaves {
-  background-position-x: calc(2 * -72px);
+.archaiclegwear {
+  background-position: -280px 0;
 }
 
-.ancienthelm {
-  background-position-x: calc(3 * -72px);
+.archaictunic {
+  background-position: -350px 0;
+}
+
+.archaicwarmgreaves {
+  background-position: -420px 0;
 }
 
 .barbarianarmor {
-  background-position-x: calc(4 * -72px);
+  background-position: -490px 0;
 }
 
 .barbarianhelm {
-  background-position-x: calc(5 * -72px);
+  background-position: -560px 0;
 }
 
 .barbarianlegwraps {
-  background-position-x: calc(6 * -72px);
+  background-position: -630px 0;
 }
 
 .bokoblinmask {
-  background-position-x: calc(7 * -72px);
-}
-
-.capofthehero {
-  background-position-x: calc(8 * -72px);
-}
-
-.capofthesky {
-  background-position-x: calc(9 * -72px);
-}
-
-.capofthewild {
-  background-position-x: calc(10 * -72px);
+  background-position: -700px 0;
 }
 
 .capofthewind {
-  background-position-x: calc(11 * -72px);
+  background-position: -770px 0;
 }
 
 .capoftime {
-  background-position-x: calc(12 * -72px);
+  background-position: -840px 0;
 }
 
 .capoftwilight {
-  background-position-x: calc(13 * -72px);
+  background-position: -910px 0;
 }
 
-.championstunic {
-  background-position-x: calc(14 * -72px);
+.capofthehero {
+  background-position: -980px 0;
 }
 
-.climbersbandanna {
-  background-position-x: calc(15 * -72px);
+.capofthesky {
+  background-position: -1050px 0;
+}
+
+.cecehat {
+  background-position: -1120px 0;
+}
+
+.championsleathers {
+  background-position: -1190px 0;
+}
+
+.tunicofmemories {
+  background-position: -1260px 0;
+}
+
+.chargedshirt {
+  background-position: -1330px 0;
+}
+
+.chargedtrousers {
+  background-position: -1400px 0;
+}
+
+.chargedheaddress {
+  background-position: -1470px 0;
+}
+
+.climbersbandana {
+  background-position: -1540px 0;
 }
 
 .climbingboots {
-  background-position-x: calc(16 * -72px);
+  background-position: -1610px 0;
 }
 
 .climbinggear {
-  background-position-x: calc(17 * -72px);
+  background-position: -1680px 0;
 }
 
 .darkhood {
-  background-position-x: calc(18 * -72px);
+  background-position: -1750px 0;
 }
 
 .darktrousers {
-  background-position-x: calc(19 * -72px);
+  background-position: -1820px 0;
 }
 
 .darktunic {
-  background-position-x: calc(20 * -72px);
+  background-position: -1890px 0;
 }
 
 .desertvoeheadband {
-  background-position-x: calc(21 * -72px);
+  background-position: -1960px 0;
 }
 
 .desertvoespaulder {
-  background-position-x: calc(22 * -72px);
+  background-position: 0 0;
 }
 
 .desertvoetrousers {
-  background-position-x: calc(23 * -72px);
+  background-position: -2030px 0;
 }
 
 .diamondcirclet {
-  background-position-x: calc(24 * -72px);
+  background-position: -2100px 0;
+}
+
+.emberheaddress {
+  background-position: -2170px 0;
+}
+
+.embershirt {
+  background-position: -2240px 0;
+}
+
+.embertrousers {
+  background-position: -2310px 0;
 }
 
 .fiercedeityarmor {
-  background-position-x: calc(25 * -72px);
+  background-position: -2520px 0;
 }
 
 .fiercedeityboots {
-  background-position-x: calc(26 * -72px);
+  background-position: -2380px 0;
 }
 
 .fiercedeitymask {
-  background-position-x: calc(27 * -72px);
+  background-position: -2450px 0;
 }
 
 .flamebreakerarmor {
-  background-position-x: calc(28 * -72px);
+  background-position: -70px 0;
 }
 
 .flamebreakerboots {
-  background-position-x: calc(29 * -72px);
+  background-position: -2590px 0;
 }
 
 .flamebreakerhelm {
-  background-position-x: calc(30 * -72px);
+  background-position: -2660px 0;
 }
 
-.gerudosirwal {
-  background-position-x: calc(31 * -72px);
+.froggyhood {
+  background-position: -2730px 0;
 }
 
-.gerudotop {
-  background-position-x: calc(32 * -72px);
+.froggyleggings {
+  background-position: -2800px 0;
 }
 
-.gerudoveil {
-  background-position-x: calc(33 * -72px);
+.froggysleeve {
+  background-position: -2870px 0;
+}
+
+.frostbiteheaddress {
+  background-position: -2940px 0;
+}
+
+.frostbiteshirt {
+  background-position: -3010px 0;
+}
+
+.frostbitetrousers {
+  background-position: -3150px 0;
+}
+
+.gaitersofthedepths {
+  background-position: -3080px 0;
+}
+
+.glidemask {
+  background-position: -3220px 0;
+}
+
+.glideshirt {
+  background-position: -3290px 0;
+}
+
+.glidetights {
+  background-position: -3360px 0;
+}
+
+.hoodofthedepths {
+  background-position: -3430px 0;
+}
+
+.horriblinmask {
+  background-position: -3500px 0;
 }
 
 .hylianhood {
-  background-position-x: calc(34 * -72px);
+  background-position: -3570px 0;
 }
 
 .hyliantrousers {
-  background-position-x: calc(35 * -72px);
+  background-position: -3640px 0;
 }
 
 .hyliantunic {
-  background-position-x: calc(36 * -72px);
+  background-position: -3710px 0;
 }
 
 .islandlobstershirt {
-  background-position-x: calc(37 * -72px);
+  background-position: -3780px 0;
 }
 
 .korokmask {
-  background-position-x: calc(38 * -72px);
+  background-position: -3850px 0;
+}
+
+.lightninghelm {
+  background-position: -3920px 0;
 }
 
 .lizalfosmask {
-  background-position-x: calc(39 * -72px);
+  background-position: -3990px 0;
 }
 
 .lynelmask {
-  background-position-x: calc(40 * -72px);
+  background-position: -4060px 0;
 }
 
 .majorasmask {
-  background-position-x: calc(41 * -72px);
+  background-position: -4130px 0;
+}
+
+.maskofawakening {
+  background-position: -4200px 0;
 }
 
 .midnashelmet {
-  background-position-x: calc(42 * -72px);
+  background-position: -4270px 0;
+}
+
+.minersmask {
+  background-position: -4340px 0;
+}
+
+.minerstop {
+  background-position: -4410px 0;
+}
+
+.minerstrousers {
+  background-position: -4480px 0;
 }
 
 .moblinmask {
-  background-position-x: calc(43 * -72px);
+  background-position: -4550px 0;
 }
 
-.nintendoswitchshirt {
-  background-position-x: calc(44 * -72px);
+.mysticheadpiece {
+  background-position: -4620px 0;
 }
 
-.oldshirt {
-  background-position-x: calc(45 * -72px);
+.mysticrobe {
+  background-position: -4690px 0;
+}
+
+.mystictrousers {
+  background-position: -4760px 0;
 }
 
 .opalearrings {
-  background-position-x: calc(46 * -72px);
+  background-position: -4830px 0;
 }
 
 .phantomarmor {
-  background-position-x: calc(47 * -72px);
-}
-
-.phantomganonarmor {
-  background-position-x: calc(48 * -72px);
-}
-
-.phantomganongreaves {
-  background-position-x: calc(49 * -72px);
-}
-
-.phantomganonskull {
-  background-position-x: calc(50 * -72px);
+  background-position: -4900px 0;
 }
 
 .phantomgreaves {
-  background-position-x: calc(51 * -72px);
+  background-position: -4970px 0;
 }
 
 .phantomhelmet {
-  background-position-x: calc(52 * -72px);
+  background-position: -5040px 0;
 }
 
 .radiantmask {
-  background-position-x: calc(53 * -72px);
+  background-position: -5110px 0;
 }
 
 .radiantshirt {
-  background-position-x: calc(54 * -72px);
+  background-position: -5180px 0;
 }
 
 .radianttights {
-  background-position-x: calc(55 * -72px);
+  background-position: -5250px 0;
 }
 
 .ravioshood {
-  background-position-x: calc(56 * -72px);
+  background-position: -5320px 0;
 }
 
 .royalguardboots {
-  background-position-x: calc(57 * -72px);
+  background-position: -5390px 0;
 }
 
 .royalguardcap {
-  background-position-x: calc(58 * -72px);
+  background-position: -5460px 0;
 }
 
 .royalguarduniform {
-  background-position-x: calc(59 * -72px);
+  background-position: -5530px 0;
 }
 
 .rubberarmor {
-  background-position-x: calc(60 * -72px);
+  background-position: -5600px 0;
 }
 
 .rubberhelm {
-  background-position-x: calc(61 * -72px);
+  background-position: -5670px 0;
 }
 
 .rubbertights {
-  background-position-x: calc(62 * -72px);
+  background-position: -5740px 0;
 }
 
 .rubycirclet {
-  background-position-x: calc(63 * -72px);
-}
-
-.salvagerheadwear {
-  background-position-x: calc(64 * -72px);
-}
-
-.salvagertrousers {
-  background-position-x: calc(65 * -72px);
-}
-
-.salvagervest {
-  background-position-x: calc(66 * -72px);
+  background-position: -5810px 0;
 }
 
 .sandboots {
-  background-position-x: calc(67 * -72px);
+  background-position: -5880px 0;
 }
 
 .sapphirecirclet {
-  background-position-x: calc(68 * -72px);
+  background-position: -5950px 0;
 }
 
 .sheiksmask {
-  background-position-x: calc(69 * -72px);
+  background-position: -6020px 0;
 }
 
 .snowboots {
-  background-position-x: calc(70 * -72px);
+  background-position: -6090px 0;
 }
 
 .snowquillheaddress {
-  background-position-x: calc(71 * -72px);
+  background-position: -6160px 0;
 }
 
 .snowquilltrousers {
-  background-position-x: calc(72 * -72px);
+  background-position: -6230px 0;
 }
 
 .snowquilltunic {
-  background-position-x: calc(73 * -72px);
+  background-position: -6300px 0;
 }
 
 .soldiersarmor {
-  background-position-x: calc(74 * -72px);
+  background-position: -6370px 0;
 }
 
 .soldiersgreaves {
-  background-position-x: calc(75 * -72px);
+  background-position: -6440px 0;
 }
 
 .soldiershelm {
-  background-position-x: calc(76 * -72px);
+  background-position: -6510px 0;
 }
 
 .stealthchestguard {
-  background-position-x: calc(77 * -72px);
+  background-position: -6720px 0;
 }
 
 .stealthmask {
-  background-position-x: calc(78 * -72px);
+  background-position: -6580px 0;
 }
 
 .stealthtights {
-  background-position-x: calc(79 * -72px);
-}
-
-.thunderhelm {
-  background-position-x: calc(80 * -72px);
+  background-position: -6650px 0;
 }
 
 .tingleshood {
-  background-position-x: calc(81 * -72px);
+  background-position: -6790px 0;
 }
 
 .tinglesshirt {
-  background-position-x: calc(82 * -72px);
+  background-position: -6860px 0;
 }
 
 .tinglestights {
-  background-position-x: calc(83 * -72px);
+  background-position: -6930px 0;
 }
 
 .topazearrings {
-  background-position-x: calc(84 * -72px);
+  background-position: -7000px 0;
+}
+
+.trousersofawakening {
+  background-position: -7070px 0;
 }
 
 .trousersofthehero {
-  background-position-x: calc(85 * -72px);
+  background-position: -7140px 0;
 }
 
 .trousersofthesky {
-  background-position-x: calc(86 * -72px);
+  background-position: -7210px 0;
 }
 
 .trousersofthewild {
-  background-position-x: calc(87 * -72px);
+  background-position: -7280px 0;
 }
 
 .trousersofthewind {
-  background-position-x: calc(88 * -72px);
+  background-position: -7350px 0;
 }
 
 .trousersoftime {
-  background-position-x: calc(89 * -72px);
+  background-position: -7420px 0;
 }
 
 .trousersoftwilight {
-  background-position-x: calc(90 * -72px);
+  background-position: -7490px 0;
+}
+
+.tunicofawakening {
+  background-position: -7560px 0;
+}
+
+.tunicofthedepths {
+  background-position: -7630px 0;
 }
 
 .tunicofthehero {
-  background-position-x: calc(91 * -72px);
+  background-position: -7700px 0;
 }
 
 .tunicofthesky {
-  background-position-x: calc(92 * -72px);
+  background-position: -7770px 0;
 }
 
 .tunicofthewild {
-  background-position-x: calc(93 * -72px);
+  background-position: -7840px 0;
 }
 
 .tunicofthewind {
-  background-position-x: calc(94 * -72px);
+  background-position: -7910px 0;
 }
 
 .tunicoftime {
-  background-position-x: calc(95 * -72px);
+  background-position: -7980px 0;
 }
 
 .tunicoftwilight {
-  background-position-x: calc(96 * -72px);
+  background-position: -8050px 0;
 }
 
 .vahmedohdivinehelm {
-  background-position-x: calc(97 * -72px);
+  background-position: -8120px 0;
 }
 
 .vahnaborisdivinehelm {
-  background-position-x: calc(98 * -72px);
+  background-position: -8190px 0;
 }
 
 .vahrudaniadivinehelm {
-  background-position-x: calc(99 * -72px);
+  background-position: -8260px 0;
 }
 
 .vahrutadivinehelm {
-  background-position-x: calc(100 * -72px);
+  background-position: -8330px 0;
 }
 
-.warmdoublet {
-  background-position-x: calc(101 * -72px);
+.well-wornhairband {
+  background-position: -8400px 0;
 }
 
-.well-worntrousers {
-  background-position-x: calc(102 * -72px);
+.yigaarmor {
+  background-position: -8470px 0;
+}
+
+.yigamask {
+  background-position: -8540px 0;
+}
+
+.yigatights {
+  background-position: -8610px 0;
 }
 
 .zantshelmet {
-  background-position-x: calc(103 * -72px);
+  background-position: -8680px 0;
+}
+
+.zonaitehelm {
+  background-position: -8750px 0;
+}
+
+.zonaiteshinguards {
+  background-position: -8820px 0;
+}
+
+.zonaitewaistguard {
+  background-position: -8890px 0;
 }
 
 .zoraarmor {
-  background-position-x: calc(104 * -72px);
+  background-position: -8960px 0;
 }
 
 .zoragreaves {
-  background-position-x: calc(105 * -72px);
+  background-position: -9030px 0;
 }
 
 .zorahelm {
-  background-position-x: calc(106 * -72px);
+  background-position: -9100px 0;
 }
 
 /* GITHUB CORNER */

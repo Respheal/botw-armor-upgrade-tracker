@@ -4898,7 +4898,7 @@ function generateProfile() {
         "ingredients": {}
       },
       {
-        "name": "Climber's Bandanna",
+        "name": "Climber's Bandana",
         "type": "hat",
         "set": "Climbing Set",
         "fromAmiibo": false,
@@ -6110,7 +6110,7 @@ const treasureMap = Object.freeze({
   'Royal Guard Cap': 'Treasure1294',
   'Royal Guard Uniform': 'Treasure0192',
   'Royal Guard Boots': 'Treasure1293',
-  'Climber\'s Bandanna': 'Treasure1117',
+  'Climber\'s Bandana': 'Treasure1117',
   'Climbing Gear': 'Treasure1232',
   'Climbing Boots': 'Treasure1116',
   'Cap of the Hero': 'Treasure0915',

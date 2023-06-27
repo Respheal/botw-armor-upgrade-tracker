@@ -130,7 +130,7 @@
 
       <section id="filters-section">
         <p>
-          Obtained {{ totalObtained }} / 107 -
+          Obtained {{ totalObtained }} / 131 -
           <span @click="showNote = !showNote" class="pill pointer">
             <template v-if="!showNote">Show</template><template v-else>Hide</template> Author's note
           </span>
@@ -167,26 +167,6 @@
                 the formerly-amiibo-exclusive sets are acquireable in-game now). Maybe throw away the Tingle Set just in
                 case :)
               </p>
-              <h2>To Do</h2>
-              <ul>
-                <li>Get images for:</li>
-                <ul>
-                  <li>Depths Set</li>
-                  <li>Froggy Set</li>
-                  <li>Glide Set</li>
-                  <li>Ember Set</li>
-                  <li>Charged Set</li>
-                  <li>Frostbite Set</li>
-                  <li>Yiga Set</li>
-                  <li>Zonaite Set</li>
-                  <li>Awakening Set</li>
-                  <li>Champion's Leathers</li>
-                  <li>That one hat from Cece</li>
-                </ul>
-                <li>Grab location for all items</li>
-                <li>What items are required for 100%?</li>
-                <li>Remove amiibo code (after verifying no gear is amiibo-exclusive)</li>
-              </ul>
             </div>
           </div>
         </transition-group>
@@ -201,14 +181,14 @@
           <option value="unobtained">Only Unobtained</option>
           <option value="speedrun100">Only 100% Speedrun</option>
         </select>
-        <label>
+        <!-- <label>
           <input v-model="showDlc" type="checkbox">
           Show DLC
         </label>
         <label>
           <input v-model="showAmiibo" type="checkbox">
           Show Amiibo
-        </label>
+        </label> -->
         <label>
           <input v-model="onlyShowUpgradable" type="checkbox">
           Show only upgradable
